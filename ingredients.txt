@@ -26,3 +26,5 @@ Garlic Butter
 
 --Other
 Bread
+Salt
+Pepper
