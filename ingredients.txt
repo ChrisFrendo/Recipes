@@ -5,19 +5,23 @@ Tomatoes
 --Herbs
 Parsley
 Thyme
+fresh basil
 
 --Vegetables
 2 Onions
 600g Mushrooms
 2 sticks of celery
 3 cloves of garlic
+1 eggplant
 
---Canned Goods
-
+--Canned/Jarred Goods
+250g pizza sauce
 
 --Dairy Products
 Garlic Butter
 75ml single cream
+30g ricotta salata
+120g mozzarella cheese
 
 --Meat
 
@@ -29,3 +33,6 @@ Salt
 Pepper
 Olive oil
 1.5l chicken/vegetable stock
+500g pizza dough
+flour
+
