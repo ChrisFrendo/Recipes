@@ -1,4 +1,10 @@
 ﻿=============================Introduction============================
+This recipe book contains 12 recipes - 4 starters, 4 main courses and
+4 desserts. It was created by world renowned chefs Manwel Bugeja,
+Chris Frendo and Carlston Azzopardi. You can find a list of ingredients
+for the whole book in ingredients.txt
+
+This book is dedicated to Mark Micallef.
 
 ===============================Starters==============================
 
