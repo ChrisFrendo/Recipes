@@ -1,9 +1,10 @@
-=============================Introduction============================
+﻿=============================Introduction============================
 
 ===============================Starters==============================
 
 =============================Main Courses============================
---Fettuccine Al Fredo Recipe 
+
+----Fettuccine Al Fredo Recipe 
 
 1. Bring a large pot of lightly salted water to a boil. 
 Add fettuccini and cook for 8 to 10 minutes or until al dente; drain. 
@@ -12,8 +13,10 @@ Add fettuccini and cook for 8 to 10 minutes or until al dente; drain.
    Stir in cheese over medium heat until melted; this will thicken the sauce. 
 3. Add pasta to sauce. Use enough of the pasta so that all of the sauce is used
    and the pasta is thoroughly coated. Serve immediately.
+
 ===============================Desserts==============================
-Banoffee Pie Recipe
+
+----Banoffee Pie Recipe
 
 1. Line the base of a deep 20cm/8in spring form tin with baking paper.
 2. To make the base, crush the biscuits to fine crumbs and melt the 
