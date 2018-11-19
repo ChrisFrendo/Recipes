@@ -1,4 +1,4 @@
-﻿=============================Introduction============================
+=============================Introduction============================
 This recipe book contains 12 recipes - 4 starters, 4 main courses and
 4 desserts. It was created by world renowned chefs Manwel Bugeja,
 Chris Frendo and Carlston Azzopardi. You can find a list of ingredients
@@ -7,6 +7,12 @@ for the whole book in ingredients.txt
 This book is dedicated to Mark Micallef.
 
 ===============================Starters==============================
+
+---- Prawn Cocktail Recipe---- 
+
+1. In a mixing bowl, combine the prawns (reserving 4 for as a garnish), ketchup, cream, horseradish, Worcestershire sauce lemon juice and shredded lettuce.
+
+2. Place mixture in a glass serving dish, garnish with the prawns and lemon slices. Chill slightly before serving.
 
 =============================Main Courses============================
 
