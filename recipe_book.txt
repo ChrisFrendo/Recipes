@@ -8,45 +8,61 @@ This book is dedicated to Mark Micallef.
 
 ===============================Starters==============================
 
----- Prawn Cocktail Recipe---- 
+----Prawn Cocktail Recipe---- 
 
-1. In a mixing bowl, combine the prawns (reserving 4 for as a garnish), ketchup, cream, horseradish, Worcestershire sauce lemon juice and shredded lettuce.
+1. In a mixing bowl, combine the prawns (reserving 4 for as a garnish), 
+   ketchup, cream, horseradish, Worcestershire sauce lemon juice and 
+   shredded lettuce.
 
-2. Place mixture in a glass serving dish, garnish with the prawns and lemon slices. Chill slightly before serving.
+2. Place mixture in a glass serving dish, garnish with the prawns and
+   lemon slices. Chill slightly before serving.
 
 ----Bruschetta Recipe----
 
 Toppings Preperation
--slice olives, tomatoes and onions into small cubes
--add salt, pepper and oil according to your liking
--mix them
+1. Slice olives, tomatoes and onions into small cubes
+
+2. Add salt, pepper and oil according to your liking
+
+3. Mix them
 
 Bread Preperation
--toast the bread
--spread a thin layer of garlic butter over one side of the bread
--using a spoon add some of the toppings on the bread
--place in a pre-heated oven for a few minutes untill the bread is crunchy
--plate the bruschetta and serve while still warm
+1. Toast the bread
+
+2. Spread a thin layer of garlic butter over one side of the bread
+
+3. Using a spoon add some of the toppings on the bread
+
+4. Place in a pre-heated oven for a few minutes untill the bread is crunchy
+
+5. Plate the bruschetta and serve while still warm
 
 ----Mushroom Soup Recipe----
 
 1. Brush the mushrooms clean, then finely slice.
 
-2. Peel and finely slice the onion, celery and garlic, then pick the parsley, finely chopping the stalks. Pick the thyme leaves.
+2. Peel and finely slice the onion, celery and garlic, then pick
+   the parsley, finely chopping the stalks. Pick the thyme leaves.
 
-3. Heat a splash of olive oil in a large saucepan over a medium heat, add the onion, celery, garlic, parsley stalks, thyme leaves and mushrooms, pop the lid on and cook gently until softened.
+3. Heat a splash of olive oil in a large saucepan over a medium heat,
+   add the onion, celery, garlic, parsley stalks, thyme leaves and mushrooms,
+   pop the lid on and cook gently until softened.
 
 4. Spoon out 4 tablespoons of mushrooms, and keep for later.
 
-5. Pour the stock into the pan and bring to the boil over a medium heat, turn the heat down to low and simmer for 15 minutes.
+5. Pour the stock into the pan and bring to the boil over a medium heat,
+   turn the heat down to low and simmer for 15 minutes.
 
-6. Season to taste with sea salt and black pepper, then whiz with a stick blender until smooth.
+6. Season to taste with sea salt and black pepper, then whiz with a stick
+   blender until smooth.
 
 7. Pour in the cream, bring just back to the boil, then turn off the heat.
 
-8. Toast the ciabatta on a hot griddle pan, then top with most of the reserved mushrooms and drizzle lightly with extra virgin olive oil.
+8. Toast the ciabatta on a hot griddle pan, then top with most of the reserved
+   mushrooms and drizzle lightly with extra virgin olive oil.
 
-9. Spoon the soup into bowls, garnish with the chopped parsley and remaining mushrooms, and serve with the ciabatta crostini on the side.
+9. Spoon the soup into bowls, garnish with the chopped parsley and remaining mushrooms,
+   and serve with the ciabatta crostini on the side.
 
 ----Tuna Dip Recipe----
 
@@ -54,7 +70,8 @@ Bread Preperation
 		
 2. Add onion and lemon juice, reserving 1 teaspoon of juice. Season to taste and mix well.
 		
-3. Transfer to serving bowl. Chill until required. When ready to serve, drizzle reserved juice over and sprinkle with parsley. Serve with crackers or homemade pita bread chips.
+3. Transfer to serving bowl. Chill until required. When ready to serve, drizzle
+   reserved juice over and sprinkle with parsley. Serve with crackers or homemade pita bread chips.
 
 =============================Main Courses============================
 
@@ -260,4 +277,50 @@ NB: Pears can be replaced with other fruit.
     Alternatively, you can use a little less buttercream and keep the edges open.
 
 11. Decorate with the fresh berries and shavings of quality chocolate over the top, if you like.
+
+
 ==============================Conclusion=============================
+
+The above recipes were compiled from various sources listed below:
+
+--Starters--
+
+Prawn Cocktail -- http://allrecipes.co.uk/recipe/29182/easy-prawn-cocktail.aspx
+
+Bruschetta -- My brother's recipe
+
+Mushroom Soup -- https://www.jamieoliver.com/recipes/soup-recipes/creamy-mushroom-soup/
+
+Tuna Dip -- https://kitchen.nine.com.au/2016/05/16/13/27/tuna-dip
+
+--Main course--
+
+Fettucine Al Fredo -- https://www.allrecipes.com/recipe/23431/to-die-for-fettuccine-alfredo/
+
+Beef Fillet -- https://www.bbc.com/food/recipes/roast_fillet_of_beef_45803
+
+Pizza Norma -- https://www.plated.com/recipes/eggplant-pizza-alla-norma-with-mozzarella-and-ricotta-salata
+
+Vegetarian Risotto -- Risotto ricetti hfief bnin u tajbin
+
+--Deserts--
+
+Banoffe Pie -- https://www.carnation.co.uk/Recipes/8/Classic-Banoffee-Pie-Recipe
+
+Lemon Cheesecake -- https://www.taste.com.au/recipes/sunny-lemon-cheesecake/2042d51a-7415-4eed-856f-e23a1a4a1681
+
+Homemade sorbet -- https://www.jamieoliver.com/recipes/fruit-recipes/pear-sorbet-sorbetto-di-pere/
+
+Chocolate cake -- https://www.jamieoliver.com/news-and-features/features/how-to-make-classic-chocolate-cake/
+
+
+
+
+
+
+
+
+
+
+
+
