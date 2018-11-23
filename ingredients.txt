@@ -6,6 +6,8 @@
 
 --Canned/Jarred Goods
 
+
+
 --Dairy Products
 
 --Meat and Fish
@@ -15,6 +17,10 @@
 --Pasta
 
 --Packed goods
+500g flour
+yeast
 
 --Other
-
+400ml water
+oil
+salt
