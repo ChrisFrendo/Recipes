@@ -33,8 +33,8 @@ Cinnamon
 500g flour
 yeast
 1 pkt icing sugar
-1 quantity pizza dough
-6 ounces sugar 
+2 quantities pizza dough
+1 pkt sugar
 
 --Other
 400ml water
@@ -43,3 +43,4 @@ salt
 Chocolate chips
 Candied fruit
 Pistachios
+Vanilla
