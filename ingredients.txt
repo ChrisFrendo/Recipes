@@ -3,9 +3,11 @@
 Orange
 
 --Herbs
+basil leaves
 parsley
 
 --Vegetables
+garlic clover
 
 --Canned/Jarred Goods
 1 medium jar nutella
@@ -15,10 +17,10 @@ Cinnamon
 
 --Dairy Products
 1 pkt butter
-200g parmesan
-4 eggs
+225g parmesan
+6 eggs
 1 pound cream cheese
-1 pound ricotta
+478 pound ricotta
 
 --Meat and Fish
 200g pancetta
@@ -30,13 +32,14 @@ Cinnamon
 1 package manicotti 
 
 --Packed goods
-500g flour
+700g flour
 yeast
 1 pkt icing sugar
 2 quantities pizza dough
 1 pkt sugar
 
 --Other
+70g pine nuts
 400ml water
 oil
 salt
