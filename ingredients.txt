@@ -2,6 +2,7 @@
 1 punnet of strawberries
 
 --Herbs
+parsley
 
 --Vegetables
 
@@ -12,12 +13,16 @@
 
 --Dairy Products
 1 pkt butter
+200g parmesan
+4 eggs
 
 --Meat and Fish
+200g pancetta
 
 --Alcohol
 
 --Pasta
+400g penne rigate
 
 --Packed goods
 500g flour
