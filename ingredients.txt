@@ -1,5 +1,6 @@
 --Fruit
 1 punnet of strawberries
+Orange
 
 --Herbs
 parsley
@@ -9,12 +10,15 @@ parsley
 --Canned/Jarred Goods
 1 medium jar nutella
 
-
+--Spices
+Cinnamon
 
 --Dairy Products
 1 pkt butter
 200g parmesan
 4 eggs
+1 pound cream cheese
+1 pound ricotta
 
 --Meat and Fish
 200g pancetta
@@ -23,14 +27,20 @@ parsley
 
 --Pasta
 400g penne rigate
+1 package manicotti 
 
 --Packed goods
 500g flour
 yeast
 1 pkt icing sugar
-1 quantity pizza dough
+2 quantities pizza dough
+1 pkt sugar
 
 --Other
 400ml water
 oil
 salt
+Chocolate chips
+Candied fruit
+Pistachios
+Vanilla
