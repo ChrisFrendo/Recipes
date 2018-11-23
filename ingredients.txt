@@ -1,14 +1,17 @@
 --Fruit
+1 punnet of strawberries
 
 --Herbs
 
 --Vegetables
 
 --Canned/Jarred Goods
+1 medium jar nutella
 
 
 
 --Dairy Products
+1 pkt butter
 
 --Meat and Fish
 
@@ -19,6 +22,8 @@
 --Packed goods
 500g flour
 yeast
+1 pkt icing sugar
+1 quantity pizza dough
 
 --Other
 400ml water
