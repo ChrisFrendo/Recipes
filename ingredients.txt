@@ -1,12 +1,15 @@
 --Fruit
+1 punnet of strawberries
 
 --Herbs
 
 --Vegetables
 
 --Canned/Jarred Goods
+1 medium jar nutella
 
 --Dairy Products
+1 pkt butter
 
 --Meat and Fish
 
@@ -15,6 +18,8 @@
 --Pasta
 
 --Packed goods
+1 pkt icing sugar
+1 quantity pizza dough
 
 --Other
 
