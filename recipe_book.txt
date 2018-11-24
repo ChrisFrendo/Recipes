@@ -288,6 +288,7 @@ NB: Pears can be replaced with other fruit.
                                Pizza-pasta book
 
 ================================Introduction=======================================
+
 This recipe book contains 9 pizza-pasta recipes - 3 starters, 3 main courses and
 3 desserts. 
 
@@ -518,9 +519,10 @@ Bolognese to each, then serve with a fine grating of Parmesan.
 
 *********************************************************************************
 
-				            Vegetarian Book
+				Vegetarian Book
 
 ==================================Introduction===================================
+
 This recipe book contains 9 vegetarian recipes - 3 starters, 3 main courses and
 3 desserts.
 
@@ -528,6 +530,7 @@ This recipe book contains 9 vegetarian recipes - 3 starters, 3 main courses and
 ====================================Starters=====================================
 
 ----Burrata bruschetta----
+
 1. Mix the sugar snap peas, peas, broad beans and radish with the chillies and
    herbs in a bowl. Add the chardonnay vinegar and olive oil, and toss to coat.
 
@@ -537,6 +540,7 @@ This recipe book contains 9 vegetarian recipes - 3 starters, 3 main courses and
    summer beans, pile on top and season to serve.
 
 ----Charred chicory cups and walnut brittle----
+
 1. Start by making the brittle. Brush the oil over a baking tray, then tip the
    sugar into a frying pan. Put the pan over a medium-high heat to melt the sugar, 
    swirling the pan occasionally to ensure it melts evenly – but don’t stir or 
@@ -569,6 +573,7 @@ This recipe book contains 9 vegetarian recipes - 3 starters, 3 main courses and
    Finally, scatter over the green chillies and serve.
 
 ----Supergreen soup with yogurt & pine nuts----
+
 1. Heat the oil in a medium saucepan over a low-medium heat. Add the onion and a pinch of salt,
    then cook slowly, stirring occasionally, for 10 mins until softened but not coloured.
    Add the garlic and cook for 1 min more.
@@ -582,6 +587,7 @@ This recipe book contains 9 vegetarian recipes - 3 starters, 3 main courses and
 =============================Main Courses============================
 
 ----Courgette carpaccio----
+
 1. Cut the ends off the courgettes to make them each about 12cm long. Use a mandolin or swivel
    blade peeler to shave 4 thin slices from each courgette (use the offcuts and leftovers for another dish).
    Arrange the courgettes, overlapping, over two plates (alternating the colour if you've used yellow and green)
@@ -592,6 +598,7 @@ This recipe book contains 9 vegetarian recipes - 3 starters, 3 main courses and
    Scatter over the cheese, finish with the lemon zest and serve.
 
 ----Mumsy's vegetable soup----
+
 1. Heat oven to 180C/160C fan/gas 4. Put the bread on a baking tray with the 
    caraway seeds, half the oil and some sea salt, and bake for 10-15 mins or until 
    golden and crisp. Set aside.
@@ -606,6 +613,7 @@ This recipe book contains 9 vegetarian recipes - 3 starters, 3 main courses and
    and serve the soup in bowls with the caraway croutons.
 
 ----Asparagus & new potato frittata----
+
 1. Heat the grill to high. Put the potatoes in a pan of cold salted water and
    bring to the boil. Once boiling, cook for 4-5 mins until nearly tender, 
    then add the asparagus for a final 1 min. Drain.
