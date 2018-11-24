@@ -12,8 +12,13 @@ Cinnamon
 Nutmeg
 
 --Canned/Jarred Goods
+Vanilla Extract
+maple syrup
 
 --Dairy Products
+Butter
+2 eggs
+buttermilk
 
 --Meat and Fish
 
@@ -22,8 +27,12 @@ Nutmeg
 --Pasta
 
 --Packed goods
+Salt
 flour
 coconut sugar
+Brown sugar
+baking soda
 
 --Other
 16 Tortillas
+walnuts
