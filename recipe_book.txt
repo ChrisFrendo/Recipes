@@ -1,4 +1,4 @@
-=============================Introduction============================
+﻿=============================Introduction============================
 This recipe book contains 9 vegetarian recipes - 3 starters, 3 main courses and
 3 desserts. You can find a list of ingredients
 for the whole book in ingredients.txt
@@ -132,6 +132,22 @@ Add the stock, tomatoes, sugar, bouquet garni, celery and seasoning and bring to
 ==============================Conclusion=============================
 
 The above recipes were compiled from various sources listed below:
+
+----Starters----
+
+--Burrata Bruschetta: https://www.bbcgoodfood.com/recipes/burrata-bruschetta-summer-beans
+
+--Charred chicory cups & walnut brittle: https://www.bbcgoodfood.com/recipes/charred-chicory-cups-walnut-brittle
+
+--Supergreen soup with yogurt & pine nuts: https://www.bbcgoodfood.com/recipes/supergreen-soup-yogurt-pine-nuts
+
+----Main Courses----
+
+--Courgette carpaccio: https://www.bbcgoodfood.com/recipes/courgette-carpaccio
+
+--Mumsy's vegetable soup: https://www.bbcgoodfood.com/recipes/mumsys-vegetable-soup
+
+--Asparagus & new potato frittata: https://www.bbcgoodfood.com/recipes/asparagus-new-potato-frittata
 
 ----Desserts----
 
