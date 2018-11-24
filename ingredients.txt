@@ -10,7 +10,7 @@ parsley
 cilantro
 
 --Vegetables
-3 garlic clover
+5 garlic clover
 2 onion
 
 --Canned/Jarred Goods
@@ -28,18 +28,20 @@ Cinnamon
 478 pound ricotta
 mozarella
 shredded smoked guoda
+200ml fresh cream
 
 --Meat and Fish
 200g pancetta
 300g bacon
 500g minced beed
 225g chicken breast
+250g smoked salmon
 
 --Alcohol
 200ml red wine
 
 --Pasta
-400g penne rigate
+800g penne rigate
 1 package manicotti
 500g dried spaghetti 
 
@@ -51,7 +53,6 @@ yeast
 1 pkt sugar
 
 --Other
-homemade pizza crust
 70g pine nuts
 400ml water
 oil
@@ -60,3 +61,4 @@ Chocolate chips
 Candied fruit
 Pistachios
 Vanilla
+pepper
