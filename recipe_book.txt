@@ -1,4 +1,7 @@
+                           Original Recipe Book
+
 =============================Introduction============================
+
 This recipe book contains 12 recipes - 4 starters, 4 main courses and
 4 desserts. It was created by world renowned chefs Manwel Bugeja,
 Chris Frendo and Carlston Azzopardi. You can find a list of ingredients
@@ -156,7 +159,6 @@ Bread Preperation
 5. Add salt and peppers and serve instantly with sour cream and 
    chives spread on top. 
 
-
 ===============================Desserts==============================
 
 ----Banoffee Pie Recipe----
@@ -279,6 +281,245 @@ NB: Pears can be replaced with other fruit.
 11. Decorate with the fresh berries and shavings of quality chocolate over the top.
 
 
+
+
+**********************************************************************
+
+
+
+
+                               Pizza-pasta book
+
+This recipe book contains 9 pizza-pasta recipes - 3 starters, 3 main courses and
+3 desserts. You can find a list of ingredients for the whole book in ingredients.txt
+
+This book is dedicated to Mark Micallef.
+
+===============================Starters==============================
+
+----Focaccia----
+
+1. Place the flour, salt, yeast, olive oil and 300ml of the 
+   water into a large bowl. Gently stir with your hand or a wooden spoon
+   to form a dough then knead the dough in the bowl for five minutes, 
+   gradually adding the remaining water.
+
+2. Stretch the dough by hand in the bowl, tuck the sides into the centre,  
+   turn the bowl 80 degrees and repeat the process for about five minutes.
+
+3. Tip the dough onto an oiled work surface and continue kneading for five
+   more minutes. Return the dough to the bowl, cover and leave to rise 
+   until doubled in size.
+
+4. Line two large baking sheets with baking paper. Tip the dough out
+   of the bowl and divide into two portions. Flatten each portion onto a 
+   baking sheet, pushing to the corners, then leave to prove for one hour.
+
+5. Preheat the oven to 220C/425F/Gas 7. Drizzle the loaves with oil, 
+   sprinkle with fine sea salt then bake in the oven for 20 minutes. 
+   When cooked, drizzle with a little more olive oil and serve hot or warm.
+
+----Penne Carbonara----
+
+1. Cook the pasta in a large saucepan of salted boiling water until al dente. 
+Drain. Return the pasta to saucepan.
+
+2. Heat a large non-stick frying pan over medium-low heat. Cook, turning, half 
+the pancetta for 5 minutes or until golden and crisp. Use tongs to transfer the 
+pancetta to a plate lined with paper towel to drain, leaving the fat in the pan.
+ Repeat with remaining pancetta. Coarsely chop.
+
+3. Add the pasta to the pancetta fat in the pan. Stir over low heat for 1 minute 
+or until coated. Remove from heat. Cool for 1 minute. Stir in the pancetta, 
+parmesan, parsley and oil until combined. Quickly stir in the egg until the pasta 
+is coated. Season with pepper.
+
+----Tortellini----
+
+1. Blend the flour and eggs together in a food processor until the mixture resembles 
+breadcrumbs. Turn the mixture out onto a lightly floured work surface and squash the 
+crumbs into a ball of dough. Knead the dough for 4-5 minutes, or until smooth and 
+elastic. Wrap the dough in cling film and chill in the fridge for 20 minutes.
+
+2. For the pesto, grind the basil, pine nuts, parmesan and garlic to a rough paste
+in a pestle and mortar. Gradually pour in both the oils, stirring as you add them. 
+Season, to taste, with salt and freshly ground black pepper. Set aside, covered, 
+until needed.
+
+3. To prepare the pasta, dust the rollers of a pasta machine with flour. Cut the 
+chilled pasta into three pieces and flatten each out to a thickness of about 1cm/½in.
+
+4. Set the pasta machine to its widest setting and feed one piece of dough through 
+the machine, turning the handle with one hand and collecting the rolled dough as it 
+comes through the machine with the other.
+
+5. Change the setting on the pasta machine to the next thickest setting, dust the 
+rollers with a little flour, then feed the same pasta sheet through the machine again, 
+as before. Repeat this process three or four more times, flouring the machine and 
+changing the setting down each time, until you reach the penultimate setting. As your 
+pasta sheet becomes longer, cut it in half so that the rolling process is more manageable.
+
+6. Repeat the rolling process with the remaining two pieces of dough. Once all of the 
+dough has been rolled out, you should have six long sheets of pasta.
+
+7. To make the tortellini, place one long sheet of the pasta onto the work surface with 
+the longest side facing you. Place two large basil leaves in the bottom half of the pasta, 
+then fold the top half over the basil leaves. Set the pasta machine to its finest setting 
+and pass the sheet through the machine again. Repeat the process with the remaining pasta 
+sheets and large basil leaves.
+
+8. Cut the pasta sheets into 9cm/4in discs using a cookie cutter. Place one small basil 
+leaf into the centre of each, and top with one teaspoonful of ricotta.
+
+9. One by one, brush the edges of each pasta disc with a little water. Bring the edges of 
+each disc together to form a semi-circular shape, pressing the edges together with your 
+fingertips to seal. Bring the pointed ends of the tortellini towards each other around your 
+fingertip to form a ring, then press the corners together using your other hand.
+
+10. Repeat the process with the remaining pasta discs, basil and ricotta; you should end up 
+with 20 tortellini.
+
+11. Bring a large pan of salted water to the boil. Carefully lower the tortellini into the 
+boiling water, in batches, and cook for 3-4 minutes, or until they float to the surface of 
+the water. Remove from the pan using a slotted spoon and set aside in a bowl, keeping warm. 
+Cook the remaining tortellini.
+
+12. Add the pesto to the tortellini and mix gently until coated. Sprinkle over the pine nuts.
+
+13. To serve, spoon the tortellini and pesto onto serving plates. Sprinkle some grated 
+parmesan over each and garnish with a few small basil leaves.
+
+=============================Main Courses============================
+
+----Pizza BBQ Chicken----
+
+1. Prepare the pizza dough through step 11, including preheating the 
+oven to 475F as described in step 8.
+
+2. Toss 2 Tablespoons of BBQ sauce with the cooked, chopped chicken 
+to coat it. Set aside.
+
+3. After waiting 15 minutes as described in step 11, top the crust with 
+the BBQ sauce. Add more or less BBQ sauce depending on your taste. Then 
+layer on the shredded mozzarella, then the BBQ-coated chicken, shredded 
+gouda, then the onion slices. Bake for 14-16 minutes. For the last minute, 
+I move the oven rack to the top rack to really brown the edges. That's optional.
+
+4. Top hot pizza with fresh cilantro. Slice pizza and serve immediately. 
+Store leftover pizza covered tightly in the refrigerator and reheat as 
+you prefer. Baked pizza slices may be frozen up to 1 month. Please see 
+homemade pizza crust recipe for how to freeze the pizza dough.
+
+----Penne al Salmone----
+
+1. Put 4 lt of water to boil with 30 gr of coarse sea salt. When the water 
+is already boiling, add the pasta. Stir it and start to make the sauce; that 
+will take 10 minutes to be ready.
+
+2. In a frying pan, put the EVOO, warm it for about 30 seconds. Crush the 2 
+garlic cloves and add them to the oil until golden (roughly 2 min) and then 
+discard them.
+
+3. Add  the smoked salmon to the oil. Stir it for a minute or two then add the 
+fresh cream, the parsley (preserve a little bit for garnishing), the sundried 
+tomato pate or passata and a bit of freshly ground black pepper.
+
+4. Cover and  cook over a gentle heat for 3-4 minutes. The sauce will thicken 
+and then will be ready to receive the pasta.
+
+5. Check the pasta; it should be almost ready. Drain it well and add it to the
+sauce. Toss all together for 1 min and serve it on a plate. Finish the dish 
+with a drizzle of Extra virgin olive oil  and the remaining parsley.
+
+
+----Spaghetti Bolognese----
+
+1. Preheat the oven to 180ºC/350ºF/gas 4.
+
+2. Peel and finely chop the garlic and onions, pick and finely chop 
+the rosemary, then finely slice the bacon.
+
+3. Heat a splash of oil in a casserole pan on a medium heat, add the 
+bacon, rosemary, garlic and onion and cook for 5 minutes, or until softened, 
+stirring occasionally.
+
+4. Add the minced beef, breaking it apart with the back of a spoon, then 
+cook for 2 to 3 minutes, or until starting to brown, then pour in the wine. 
+Leave to bubble and cook away.
+
+5. Meanwhile, drain and tip the sun-dried tomatoes into a food processor, 
+blitz to a paste, then add to the pan with the tomatoes. Stir well, break 
+the plum tomatoes apart a little.
+
+6. Cover with a lid then place in the oven for 1 hour, removing the lid and 
+giving it a stir after 30 minutes – if it looks a little dry at this stage, 
+add a splash of water to help it along.
+
+7. About 10 minutes before the time is up, cook the spaghetti in boiling 
+salted water according to the packet instructions.
+
+8. Once the spaghetti is cooked, drain, reserving a mugful of cooking water, 
+then return to the pan with a few spoons of Bolognese, a good grating of 
+Parmesan and a drizzle of extra virgin olive oil.
+
+9. Toss to coat the spaghetti, loosening with a splash of cooking water, 
+if needed.
+
+10. Divide the spaghetti between plates or bowls, add a good spoonful of 
+Bolognese to each, then serve with a fine grating of Parmesan.
+
+===============================Desserts==============================
+
+----Nutella Pizza----
+
+1. Pre-heat oven to 220?C.
+
+2. Brush a pizza tray with olive oil.
+
+3. Make one quantity of pizza dough. Roll out to fit a tray and prick
+   surface all over with a fork.
+
+4. Brush with olive oil or butter and bake for approx.10 mins or until golden.
+
+5. While warm spread with Nutella generously and top with fresh strawberries.
+
+6. Sprinkle sifted icing sugar of the top and slice while warm.
+
+----Manicotti Cannoli----
+
+1. Cook manicotti according to package directions, substituting 2 teaspoons
+   of sugar and 1 teaspoon vanilla for the salt.  Set aside to cool.
+ 
+2. Combine cheeses, sugar, spices, chocolate chips, and candied fruit.
+   Pipe into the manicotti tubes. 
+
+3. Press chopped pistachios into the ends of the tubes. 
+
+4. Dust tops with confectionary sugar, cocoa powder  or dark, milk
+   or white shaved chocolates.
+
+----Cinnamon Rolls with pizza dough----
+
+1. Preheat the oven to 375 degrees.
+
+2. Roll your pizza dough on an un floured surface to a 12" by 8" rectangle.
+
+3. Mix the sugar, cinnamon, and vanilla in a small bowl, set aside.
+
+4. Spread the butter evenly over the dough and sprinkle with the sugar mixture.
+
+5. Starting at the long end, roll up tightly and pinch the seam shut.
+
+6. Slice 2" thick slices and place them in a greased 9" round cake pan 
+   about 1/2" apart.
+
+7. Let them rise on the counter for 30 minutes, then bake until golden 
+   brown and bubbly, about 20-25 minutes.
+
+8. To make the glaze, mix the powdered sugar, 1/4 teaspoon vanilla, 
+   and water and spread over the warm rolls. 
+
+
 ==============================Conclusion=============================
 
 The above recipes were compiled from various sources listed below:
@@ -293,6 +534,13 @@ Mushroom Soup -- https://www.jamieoliver.com/recipes/soup-recipes/creamy-mushroo
 
 Tuna Dip -- https://kitchen.nine.com.au/2016/05/16/13/27/tuna-dip
 
+Focaccia -- https://www.bbc.com/food/recipes/focaccia_08389
+
+Penne Carbonara -- https://www.taste.com.au/recipes/penne-alla-carbonara/a1678545-5bdf-4b8b-b9c8-b08a1425462c
+
+Tortellini -- https://www.bbc.com/food/recipes/basic_tortellini_with_38575
+
+
 --Main course--
 
 Fettucine Al Fredo -- https://www.allrecipes.com/recipe/23431/to-die-for-fettuccine-alfredo/
@@ -302,6 +550,12 @@ Beef Fillet -- https://www.bbc.com/food/recipes/roast_fillet_of_beef_45803
 Pizza Norma -- https://www.plated.com/recipes/eggplant-pizza-alla-norma-with-mozzarella-and-ricotta-salata
 
 Vegetarian Risotto -- Risotto ricetti hfief bnin u tajbin
+
+Pizza BBQ Chicken -- https://sallysbakingaddiction.com/homemade-bbq-chicken-pizza/
+
+Penne al Salmone -- https://cookwithgusto.com/penne-with-salmon/
+
+Spaghetti Bolognese -- https://www.jamieoliver.com/recipes/beef-recipes/spaghetti-bolognese/
 
 --Deserts--
 
@@ -313,8 +567,11 @@ Homemade sorbet -- https://www.jamieoliver.com/recipes/fruit-recipes/pear-sorbet
 
 Chocolate cake -- https://www.jamieoliver.com/news-and-features/features/how-to-make-classic-chocolate-cake/
 
+Nutella Pizza -- https://www.kidspot.com.au/kitchen/recipes/nutella-pizza-951
 
+Manicotti Cannoli -- https://www.thenibble.com/reviews/main/desserts/dessert-pasta-recipes.asp#r7
 
+Cinnamon Rolls with Pizza Dough -- https://feastandfarm.com/worlds-easiest-cinnamon-rolls/#wprm-recipe-container-1988
 
 
 
