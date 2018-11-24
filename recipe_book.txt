@@ -1,8 +1,6 @@
 =============================Introduction============================
-This recipe book contains 12 recipes - 4 starters, 4 main courses and
-4 desserts. It was created by world renowned chefs Manwel Bugeja,
-Chris Frendo and Carlston Azzopardi. You can find a list of ingredients
-for the whole book in ingredients.txt
+This recipe book contains 9 pizza-pasta recipes - 3 starters, 3 main courses and
+3 desserts. You can find a list of ingredients for the whole book in ingredients.txt
 
 This book is dedicated to Mark Micallef.
 
@@ -57,7 +55,7 @@ Season, to taste, with salt and freshly ground black pepper. Set aside, covered,
 until needed.
 
 3. To prepare the pasta, dust the rollers of a pasta machine with flour. Cut the 
-chilled pasta into three pieces and flatten each out to a thickness of about 1cm/Â½in.
+chilled pasta into three pieces and flatten each out to a thickness of about 1cm/½in.
 
 4. Set the pasta machine to its widest setting and feed one piece of dough through 
 the machine, turning the handle with one hand and collecting the rolled dough as it 
@@ -143,7 +141,7 @@ with a drizzle of Extra virgin olive oil  and the remaining parsley.
 
 --Spaghetti Bolognese
 
-1. Preheat the oven to 180ÂºC/350ÂºF/gas 4.
+1. Preheat the oven to 180ºC/350ºF/gas 4.
 
 2. Peel and finely chop the garlic and onions, pick and finely chop 
 the rosemary, then finely slice the bacon.
@@ -161,7 +159,7 @@ blitz to a paste, then add to the pan with the tomatoes. Stir well, break
 the plum tomatoes apart a little.
 
 6. Cover with a lid then place in the oven for 1 hour, removing the lid and 
-giving it a stir after 30 minutes â€“ if it looks a little dry at this stage, 
+giving it a stir after 30 minutes – if it looks a little dry at this stage, 
 add a splash of water to help it along.
 
 7. About 10 minutes before the time is up, cook the spaghetti in boiling 
@@ -181,7 +179,7 @@ Bolognese to each, then serve with a fine grating of Parmesan.
 ===============================Desserts==============================
 --Nutella Pizza
 
-1. Pre-heat oven to 220âˆžC.
+1. Pre-heat oven to 220?C.
 
 2. Brush a pizza tray with olive oil.
 
@@ -250,7 +248,11 @@ Spaghetti Bolognese -- https://www.jamieoliver.com/recipes/beef-recipes/spaghett
 
 --Desserts--
 
+Nutella Pizza -- https://www.kidspot.com.au/kitchen/recipes/nutella-pizza-951
 
+Manicotti Cannoli -- https://www.thenibble.com/reviews/main/desserts/dessert-pasta-recipes.asp#r7
+
+Cinnamon Rolls with Pizza Dough -- https://feastandfarm.com/worlds-easiest-cinnamon-rolls/#wprm-recipe-container-1988
 
 
 
