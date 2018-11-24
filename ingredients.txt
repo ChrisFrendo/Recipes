@@ -1,4 +1,7 @@
 --Fruit
+1.5kg Apples
+lemons
+8 dates
 Olives
 500g Tomatoes
 1kg pears
@@ -14,7 +17,7 @@ fresh basil
 Chopped Parsley
 2 springs rosemary
 cilantro
-
+1 bouquet garni
 
 --Vegetables
 1l vegetable stock
@@ -29,6 +32,29 @@ chives
 8 level tablespoons tomato ketchup
 4 tablespoons of shredded lettuce
 1/2small red onion
+Ginger Root
+snap peas
+40g peas
+4 radishes
+2 red chillies
+1 green chilli
+2 onion
+3 garlic cloves
+250g potato
+1200ml vegetable stock
+Chilli oil
+Courgettes
+Mint leaves
+carrots
+100g cherry tomatoes
+200g Cauliflower 
+150g White cabbage
+100g asparagus tips
+Rocket leaves
+120g bag mixed watercress, rocket and spinach salad
+Celery stick
+4 chicory heads
+200g butternut
 
 --Canned/Jarred Goods
 250g pizza sauce
@@ -37,9 +63,14 @@ vanilla extract
 1 bottle mustard
 1 medium jar nutella
 1 jar sun-dried tomatoes
+maple syrup
+Worcestershire sauce
+Mushroom ketchup
 
 --Spices
 Cinnamon
+Nutmeg
+Cloves
 
 --Dairy Products
 Garlic Butter
@@ -47,7 +78,7 @@ Garlic Butter
 500g ricotta salata
 200g mozzarella cheese
 437g unsalted butter
-10 eggs
+19 eggs
 3 cartons milk
 sour cream
 2 packets butter
@@ -60,6 +91,16 @@ sour cream
 420ml double cream
 150ml full fat creme fraiche
 shredded smoked guoda
+Butter
+buttermilk
+milk
+8 oz cream cheese
+50g soft blue cheese
+50g cream cheese
+150g pot natural yogurt
+50g ricotta salata
+40g cheddar 
+Large burrata
 
 --Meat and Fish
 225g shelled prawns
@@ -94,6 +135,14 @@ coffee
 350g plain biscuits
 125g dark chocolate
 2 quantities pizza dough
+Salt
+flour
+coconut sugar
+Brown sugar
+confectioner's sugar
+baking soda
+105g golden caster sugar
+1 small pack mint
 
 --Other
 Bread
@@ -110,3 +159,13 @@ Chocolate chips
 Candied fruit
 Pistachios
 Vanilla
+16 Tortillas
+walnuts
+caraway seeds
+fennel seeds
+Pine nuts
+molasses
+100ml olive oil
+Sourdough 
+Sunflower oil
+chardonnay vinegar
